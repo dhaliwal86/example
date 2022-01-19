@@ -1,0 +1,17 @@
+first {
+background-color: pink;
+  }
+
+second {
+  background color: yellow;
+
+}
+
+third {
+  background color: red;
+}
+
+.autoimg {
+  max-width: 100%;
+  height:auto;
+}

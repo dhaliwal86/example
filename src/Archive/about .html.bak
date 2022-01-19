@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="css/styles.css">
+	</head>
+<body>
+<h1 id"=,myalert"> My About Page </h1> class="highlighted"> My First Heading</h1>
+<img src="img/tree.jpg" alt="image of tree" width="640" height "853">
+<p>My first paragraph. This is more text. </p>
+<p> My <a href="about.html"> first</a>This is another paragraph.</p>
+
+<ul>
+	<li> item 1</li>
+	<li> item 1</li>
+	<li> item 1</li>
+	<li> item 1</li>
+	</ul>
+	<script>
+	console.log(Hello World');
+	
+	</script>
+	
+<p>Second Paragraph.<p>
+<p id="highlighted">third paragraph.<p>
+</body>
+</html>
